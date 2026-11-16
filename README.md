@@ -40,3 +40,11 @@ Copy this repository to `~/.codex/skills/government-procurement-tender-review` a
 具体项目的结论取决于当时适用的政策、有效采购文件和实际提交的版本。资格、否决和得分由有权主体依法判断。英文译文用于业务理解，法规及项目文件以官方文本为准。
 
 Project conclusions depend on the applicable rules, operative procurement documents and submitted versions. The responsible body determines eligibility, rejection and scoring. English translations support business use; consult official texts for the controlling wording.
+
+## 赞助支持 / Support the Project
+
+如果这个 Skill 帮到了你，可以通过微信扫描下方的「OSE 公益」赞赏码，自愿支持项目维护与资料更新。
+
+If this skill has been useful to you, scan the OSE support code below with WeChat to voluntarily support project maintenance and updates.
+
+<img src="assets/ose-sponsor-qr.jpg" alt="OSE 公益微信赞赏码 / OSE WeChat support code" width="320">
