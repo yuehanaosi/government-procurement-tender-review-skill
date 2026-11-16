@@ -1,4 +1,4 @@
 interface:
-  display_name: "政府采购与招投标响应文件审核 | Procurement & Tender Review"
+  display_name: "招投标与政府采购响应文件审核 Skill | Tendering & Government Procurement Review Skill"
   short_description: "核查资格、签章、报价和政策 | Review bids and procurement"
   default_prompt: "使用 $government-procurement-tender-review 按采购文件逐家审核响应文件并列出问题。 / Use $government-procurement-tender-review to review each submission against the procurement documents and list findings."

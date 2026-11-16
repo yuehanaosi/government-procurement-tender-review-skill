@@ -3,8 +3,8 @@ name: government-procurement-tender-review
 description: "审核中国大陆政府采购及招投标项目的采购文件、投标文件和响应文件，核验政策、资格、签章、报价及商务技术响应。Review mainland China government procurement and tender documents, bid and response submissions, eligibility, signatures, seals, pricing and technical compliance."
 ---
 
-# 政府采购与招投标响应文件审核
-# Government Procurement and Tender Response Review
+# 招投标与政府采购响应文件审核 Skill
+# Tendering and Government Procurement Response Review Skill
 
 ## 一、确定适用规则 / 1. Determine the applicable rules
 

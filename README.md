@@ -1,5 +1,5 @@
-# 政府采购与招投标响应文件审核
-# Government Procurement and Tender Response Review
+# 招投标与政府采购响应文件审核 Skill
+# Tendering and Government Procurement Response Review Skill
 
 面向政府采购及招投标业务的中英双语 Codex Skill。适用于供应商递交前自查、采购人或代理机构材料核对，以及同一项目多家供应商响应文件的逐家复核。审核以项目条款、正式政策来源和文件证据为基础。每项问题可追溯到具体表格、页码和依据，便于修改、复核与归档。
 
